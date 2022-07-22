@@ -22,7 +22,7 @@
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexander-horopchanu-2bb394210#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-horopchanu-2bb394210#gh-dark-mode-only)
-
+<a href="https://t.me/sparcoff" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Telegram-512.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
