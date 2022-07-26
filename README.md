@@ -35,3 +35,16 @@
 <a href="https://github.com/Horopchanu" target="_blank"><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="33"/> </a>
 
+ </br>
+  
+<!-- <img alt="GIF" src="/code.gif" width="400px" /> -->
+
+</br>
+</br>
+
+<a href="https://github.com/horopchanu/github-readme-stats">
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=horopchanu&show_icons=true&include_all_commits=true&theme=radical"      
+alt="ereminmaksim's github stats" />
+
+
