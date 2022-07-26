@@ -40,7 +40,7 @@
 
 <a href="https://github.com/horopchanu/github-readme-stats">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=horopchanu&count_private=true&show_icons=true&include_all_commits=true&theme=radical"      
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=horopchanu&prs=true&count_private=true&show_icons=true&include_all_commits=true&theme=radical"      
 alt="ereminmaksim's github stats" />
 
 
