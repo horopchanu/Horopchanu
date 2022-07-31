@@ -43,4 +43,4 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=horopchanu&count_private=true&show_icons=true&include_all_commits=true&theme=radical"      
 alt="horopchanu's github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horopchanu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
